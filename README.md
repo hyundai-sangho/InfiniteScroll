@@ -8,4 +8,4 @@
 
 - ![default](screen.gif)
 
-- 사이트 주소
+- https://hyundai-sangho.github.io/InfiniteScroll_js/
